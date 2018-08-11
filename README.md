@@ -1,7 +1,7 @@
 ![alt text](https://github.com/tniaz/Medium-Blog-Sentiment-Analysis/blob/master/medium.png)
 # Project Description
 
-This project allows the user to pull a user-specified blog from Medium and perform sentiment analysis. The blog is scraped from Medium.com using the BeautifulSoup API, and sentiment analysis is performed using TextBlob.
+This project allows the user to pull a user-specified blog from Medium and perform sentiment analysis. The blog is scraped from Medium.com using the BeautifulSoup API, and sentiment analysis is performed using the TextBlob API.
 
 # Getting Started
 
